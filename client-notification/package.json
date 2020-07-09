@@ -1,5 +1,5 @@
 {
-  "name": "nodejs-webhook",
+  "name": "client-notification",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -12,10 +12,7 @@
   "dependencies": {
     "body-parser": "^1.19.0",
     "express": "^4.17.1",
-    "fs": "0.0.1-security",
     "mongoose": "^5.9.22",
-    "morgan": "^1.10.0",
-    "node-webhooks": "^1.4.2",
-    "path": "^0.12.7"
+    "morgan": "^1.10.0"
   }
 }
